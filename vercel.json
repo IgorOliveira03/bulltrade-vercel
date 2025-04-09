@@ -1,1 +1,8 @@
-// Conteúdo do arquivo será preenchido pelo usuário
+{
+    "rewrites": [
+      { "source": "/cadastro", "destination": "/cadastro.html" },
+      { "source": "/home", "destination": "/home.html" },
+      { "source": "/academy", "destination": "/academy.html" },
+      { "source": "/news", "destination": "/news.html" }
+    ]
+  }
